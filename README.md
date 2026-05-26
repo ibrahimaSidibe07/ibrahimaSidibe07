@@ -80,10 +80,18 @@ const ibrahima = {
 
 # 📊 GitHub Analytics
 
+
+
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ibrhimaSidibe07&show_icons=true&theme=transparent&hide_border=false&border_color=3B2F2F&title_color=C4A484&icon_color=6F4E37&text_color=ffffff"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ibrhimaSidibe07&show_icons=true&theme=transparent&hide_border=true&title_color=C4A484&icon_color=6F4E37&text_color=ffffff"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhimaSidibe07&layout=compact&theme=transparent&hide_border=true&title_color=C4A484&text_color=ffffff"
 />
 
 </p>
@@ -91,7 +99,7 @@ const ibrahima = {
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=ibrhimaSidibe07&theme=transparent&ring=C4A484&fire=6F4E37&currStreakLabel=C4A484&border=3B2F2F&stroke=3B2F2F"
+  src="https://streak-stats.demolab.com?user=ibrhimaSidibe07&theme=transparent&hide_border=true&ring=C4A484&fire=6F4E37&currStreakLabel=C4A484"
 />
 
 </p>
