@@ -86,12 +86,12 @@ const ibrahima = {
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ibrhimaSidibe07&show_icons=true&theme=transparent&hide_border=true&title_color=C4A484&icon_color=6F4E37&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api?username=ibrahimaSidibe07&show_icons=true&theme=transparent&hide_border=true&title_color=C4A484&icon_color=6F4E37&text_color=ffffff"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhimaSidibe07&layout=compact&theme=transparent&hide_border=true&title_color=C4A484&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimaSidibe07&layout=compact&theme=transparent&hide_border=true&title_color=C4A484&text_color=ffffff"
 />
 
 </p>
@@ -99,7 +99,7 @@ const ibrahima = {
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=ibrhimaSidibe07&theme=transparent&hide_border=true&ring=C4A484&fire=6F4E37&currStreakLabel=C4A484"
+  src="https://streak-stats.demolab.com?user=ibrahimaSidibe07&theme=transparent&hide_border=true&ring=C4A484&fire=6F4E37&currStreakLabel=C4A484"
 />
 
 </p>
